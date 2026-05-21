@@ -34,18 +34,19 @@ In a terminal or command window, navigate to the top-level project directory Han
 
 ## Datasets -
 
-![0](./images/example_0.jpg?raw=true "0")
-![1](./images/example_1.jpg?raw=true "1")
-![2](./images/example_2.jpg?raw=true "2")
-![3](./images/example_3.jpg?raw=true "3")
-![4](./images/example_4.jpg?raw=true "4")
-<br>
+<img src="images/example_0.jpg" width="120">
+<img src="images/example_1.jpg" width="120">
+<img src="images/example_2.jpg" width="120">
+<img src="images/example_3.jpg" width="120">
+<img src="images/example_4.jpg" width="120">
 
-![5](./images/example_5.jpg?raw=true "5")
-![6](./images/example_6.jpg?raw=true "6")
-![7](./images/example_7.jpg?raw=true "7")
-![8](./images/example_8.jpg?raw=true "8")
-![9](./images/example_9.jpg?raw=true "9")
+<br><br>
+
+<img src="images/example_5.jpg" width="120">
+<img src="images/example_6.jpg" width="120">
+<img src="images/example_7.jpg" width="120">
+<img src="images/example_8.jpg" width="120">
+<img src="images/example_9.jpg" width="120">
 
 
 
