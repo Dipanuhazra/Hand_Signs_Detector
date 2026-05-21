@@ -24,7 +24,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 Clone the project
 
 ```bash
-  git clone https://github.com/tanmoymondal-86/Hand-Sign-Detector
+  git clone https://github.com/Dipanuhazra/Hand_Signs_Detector.git
 ```
 
 In a terminal or command window, navigate to the top-level project directory Hand-Sign-Detector/ (that contains this README) and run the following command:
