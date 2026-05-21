@@ -24,7 +24,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 Clone the project
 
 ```bash
-  git clone https://github.com/tanmoymondal-86/Hand-Sign-Detector
+  git clone https://github.com/Dipanuhazra/Hand_Signs_Detector.git
 ```
 
 In a terminal or command window, navigate to the top-level project directory Hand-Sign-Detector/ (that contains this README) and run the following command:
@@ -32,23 +32,21 @@ In a terminal or command window, navigate to the top-level project directory Han
   python sign_detector.py
 ```
 
-
 ## Datasets -
 
-![0](images/example_0.jpg)
-![1](images/example_1.jpg)
-![2](images/example_2.jpg)
-![3](images/example_3.jpg)
-![4](images/example_4.jpg)
+<img src="images/example_0.jpg" width="120">
+<img src="images/example_1.jpg" width="120">
+<img src="images/example_2.jpg" width="120">
+<img src="images/example_3.jpg" width="120">
+<img src="images/example_4.jpg" width="120">
 
-<br>
+<br><br>
 
-![5](images/example_5.jpg)
-![6](images/example_6.jpg)
-![7](images/example_7.jpg)
-![8](images/example_8.jpg)
-![9](images/example_9.jpg)
-
+<img src="images/example_5.jpg" width="120">
+<img src="images/example_6.jpg" width="120">
+<img src="images/example_7.jpg" width="120">
+<img src="images/example_8.jpg" width="120">
+<img src="images/example_9.jpg" width="120">
 
 
 
