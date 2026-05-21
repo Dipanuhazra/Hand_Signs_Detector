@@ -34,19 +34,19 @@ In a terminal or command window, navigate to the top-level project directory Han
 
 ## Datasets -
 
-<img src="images/example_0.jpg" width="120">
-<img src="images/example_1.jpg" width="120">
-<img src="images/example_2.jpg" width="120">
-<img src="images/example_3.jpg" width="120">
-<img src="images/example_4.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_0.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_1.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_2.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_3.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_4.jpg" width="120">
 
 <br><br>
 
-<img src="images/example_5.jpg" width="120">
-<img src="images/example_6.jpg" width="120">
-<img src="images/example_7.jpg" width="120">
-<img src="images/example_8.jpg" width="120">
-<img src="images/example_9.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_5.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_6.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_7.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_8.jpg" width="120">
+<img src="Hand-Sign-Detector-main/images/example_9.jpg" width="120">
 
 
 
